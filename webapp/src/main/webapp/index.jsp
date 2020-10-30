@@ -5,8 +5,8 @@
 <h1> As we reflect on how God allowed his Only Son JESUS CHRIST</h1>
 <h1> to die for our sins, let us pray for</h1>
 <h1> humanity during this Trying moment.</h1>
-<h1> On behalf of DATA SERVICE GROUP, I</h1>
-<h1> wish you all a Happy and Blessed Holiday</h1>
+<h1> On behalf of DATA SERVICE GROUP, </h1>
+<h1> I wish you all a Happy and Blessed Holiday</h1>
  
                                     <h1>#STAYSAFE</h1>
 <h1> Olivia Nkeih</h1>                       
