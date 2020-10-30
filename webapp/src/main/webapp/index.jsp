@@ -1,4 +1,4 @@
-<h1> Season's Greetins</h1>
+<h1> Season's Greetings!!!!!!!</h1>
 
 <h2> This year's Holiday is one of a kind, because </h2>
 <h1> it comes at a time when the world is grappling with COVID-19.</h1>
@@ -8,6 +8,6 @@
 <h1> On behalf of DATA SERVICE GROUP, I</h1>
 <h1> wish you all a Happy and Blessed Holiday</h1>
  
-                  <h1>#STAYSAFE</h1>
+                                    <h1>#STAYSAFE</h1>
 <h1> Olivia Nkeih</h1>                       
 <h1> QA, DevOps Engineer</h1>
