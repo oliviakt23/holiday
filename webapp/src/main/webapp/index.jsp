@@ -8,6 +8,6 @@
 <h1> On behalf of DATA SERVICE GROUP, </h1>
 <h1> I wish you all a Happy and Blessed Holiday</h1>
  
-                                    <h1>#STAYSAFE</h1>
+                                    <h1> #STAYSAFE </h1>
 <h1> Olivia Nkeih</h1>                       
 <h1> QA, DevOps Engineer</h1>
